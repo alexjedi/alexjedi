@@ -10,8 +10,8 @@
 - 🧘  Advocating a mindful approach to life and each other
 
 ### 🔎   Find me at:
-- 🎨 [dribbble](https://dribbble.com/pxlhead)
-- 👨‍💼 [linkedin](https://linkedin.com/in/alexshelvey)
+- 🎨 [Dribbble Portfolio](https://dribbble.com/pxlhead)
+- 👨‍💼 [Linkedin Profile](https://linkedin.com/in/alexshelvey)
 
 ### 💻  Technologies
 - **Design**: Figma, Protopie, Framer, Principle
