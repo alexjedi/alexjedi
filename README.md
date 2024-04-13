@@ -1,5 +1,7 @@
 ### Hi there, I'm Alex Shevliakov (or Alex Shelvey) 👋
 
+![catgif]([https://user-images.githubusercontent.com/41929489/144757407-64bd4005-dbba-490f-a600-bb02ee2ab5ac.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGkyeXg3bjhhbzhhYjcwc3dwaHJ5aHFvaDJtemxnZDJhOGllbnJldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif))
+
 ## 🦄 I'm a Product Designer, Engineer and Writer
 - 👩🏽‍💻  I started as a product designer and software engineer in 2014
 - ❤  I would like to help people have more time for things important to them in life.
