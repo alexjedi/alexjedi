@@ -10,17 +10,14 @@
 - 🧘  Advocating a mindful approach to life and each other
 
 ### 🔎   Find me at:
-- [dribbble](https://dribbble.com/pxlhead)
-- [linkedin](https://linkedin.com/in/alexshelvey)
-<br/>
-
+- 🎨 [dribbble](https://dribbble.com/pxlhead)
+- 👨‍💼 [linkedin](https://linkedin.com/in/alexshelvey)
 
 ### 💻  Technologies
 - **Design**: Figma, Protopie, Framer, Principle
 - **Frontend**: ES6, Typescript, React, Vue, Nuxt.js, Next.js, Redux, Vuex, Canvas, TailwindCSS, SCSS, React Spring, D3
 - **Backend**: Node.js, Express, MongoDB, Firebase, Vercel, Heroku
 - **Misc**: Langchain, Three.js
-<br/>
 
 ### ✌️ Books and Stories 
 <p>I am an active writer in the social sci-fi and post-singularity sci-fi genre. If you want to read my stories, go to the Merge Conflict repository. I'm also currently on the lookout for a literary agent and publisher, so if you know someone who would like to do this - I'd really appreciate your help!</p>
