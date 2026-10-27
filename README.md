@@ -34,4 +34,4 @@ I am looking for a literary agent and publisher. If you know someone who might b
 hey@alexvoid.com
 
 ### Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjedi&layout=compact&theme=radical)
+![Top Langs](./langs.svg)
